@@ -1,6 +1,6 @@
 # ARL_Project
 
-This repository contains multiple projects centered around my learning of Front-End Development Frameworks at ARL, specifically React frameworks (for the majority of my projects).
+This repository goes over the projects that I have worked on during the ARL Internship. My projects are mainly centered around my learning of Front-End Development Frameworks at ARL, specifically React frameworks (for most of my projects). In this repository, I have included links to my other repositories where you can look at my projects individually.
  
 ## Apples-Bananas
 
